@@ -1,5 +1,5 @@
-Algoritmo "sal·rio "
-// DescriÁ„o   :C·lculo
+Algoritmo "sal√°rio "
+// Descri√ß√£o   :C√°lculo do sal√°rio e do novo sal√°rio
 // Autor(a)    : Diogo Dias
 // Data atual  : 21/09/2017
 Var
@@ -7,10 +7,10 @@ salario,percentagem,novosalario,x:real
 Inicio
 escreva("Qual a percentagem?")
 leia(percentagem)
-escreva("Qual È o sal·rio?")
+escreva("Qual √© o sal√°rio?")
 leia(salario)
 x<-salario*percentagem/100
 novosalario<-salario+x
-escreva("O novosal·rio È",novosalario)
+escreva("O novosal√°rio √©",novosalario)
 
 Fimalgoritmo
