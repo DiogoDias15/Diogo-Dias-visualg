@@ -1,14 +1,14 @@
-Algoritmo "Area_da_ circunferência"
-// Descrição   :Cálculo da área do retângulo
+Algoritmo "Area_da_ circunferÃªncia"
+// DescriÃ§Ã£o   :CÃ¡lculo da Ã¡rea da circunferencia
 // Autor(a)    : Diogo Dias
 // Data atual  : 21/09/2017
 Var
     raio,area:real
 Inicio
-escreva("Qual o raio da circunferência?")
+escreva("Qual o raio da circunferÃªncia?")
 leia(raio)
 
 area<-3.14*raio*raio
-escreva("A área é", area)
+escreva("A Ã¡rea Ã©", area)
 
 Fimalgoritmo
